@@ -1,4 +1,4 @@
-# E2E test using Jest Puppeteer
+# E2E tests using Jest and Puppeteer
 
 ### `npm install`
 To install dependencies
