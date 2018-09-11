@@ -1,0 +1,21 @@
+.control {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 1%;
+    width: 50%;
+}
+
+.label {
+    text-align: left;
+    font-weight: bold;
+    width: 50%;
+}
+
+.input {
+    width: 30%
+}
+
+.textarea {
+    width: 30%;
+}
